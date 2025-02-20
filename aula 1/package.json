@@ -1,0 +1,15 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "aula de sw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "1"
+  ],
+  "author": "ruan bento da silva",
+  "license": "ISC"
+}
